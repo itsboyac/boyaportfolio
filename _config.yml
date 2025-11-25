@@ -30,7 +30,7 @@ url: "http://boya.github.io" # the base hostname & protocol for your site, e.g. 
 github_username:  itsboyac
 
 # Build settings
-theme: minima
+theme: merlot
 plugins:
   - jekyll-feed
 
